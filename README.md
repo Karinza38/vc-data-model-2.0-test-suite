@@ -29,7 +29,7 @@ This test suite provides interoperability tests for verifiable credential
 processors (issuers/verifiers) that support the
 [W3C Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/).
 
-## Install
+# Install
 
 ```js
 npm i
